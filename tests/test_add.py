@@ -1,8 +1,6 @@
-"""Module docstring describing the purpose of the module."""
-
 import unittest
 
-from . import fibonacci, is_palindrome
+from automated_clean_code import fibonacci, is_palindrome
 
 
 class TestLeetCode(unittest.TestCase):
